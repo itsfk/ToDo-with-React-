@@ -1,0 +1,11 @@
+body{
+    background: wheat;
+    text-align: center;
+}
+.text{
+    text-align: center;
+    margin: 20px 0px;
+}
+.bttn{
+    color: yellow;
+}
